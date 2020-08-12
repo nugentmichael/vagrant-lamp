@@ -1,6 +1,6 @@
 # Linux
 
-sudo apt-get update -y
+sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get install -y vim
 sudo apt-get install -y git
@@ -41,6 +41,3 @@ sudo apt-get install -y php-common
 sudo apt-get install -y php-all-dev
 sudo apt-get install -y php-mcrypt
 sudo apt-get install -y php-zip
-
-# API
-
